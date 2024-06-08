@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.d85ecbc1.css",
+    "main.js": "/My-Portfolio/static/js/main.fdda8051.js",
+    "static/js/453.acca0757.chunk.js": "/My-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/project2.png": "/My-Portfolio/static/media/project2.fa07e55a7cfce7cbcbc3.png",
+    "static/media/color-sharp.png": "/My-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project3.png": "/My-Portfolio/static/media/project3.09a486b656edb8b7ecc5.png",
+    "static/media/color-sharp2.png": "/My-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project1.png": "/My-Portfolio/static/media/project1.b422851fd8ec7f195e2e.png",
+    "static/media/Profile12.jpg": "/My-Portfolio/static/media/Profile12.d385e7ded867a30c1d1c.jpg",
+    "static/media/banner-bg.png": "/My-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/My-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/My-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/My-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/My-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/My-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/My-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/My-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/github1.svg": "/My-Portfolio/static/media/github1.c35763d84d45912bc97b7026fc7ddc5e.svg",
+    "static/media/logo.svg": "/My-Portfolio/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "static/media/instagram1.svg": "/My-Portfolio/static/media/instagram1.f488e6968a4e20838633fc03c91e27c2.svg",
+    "static/media/linkedin1.svg": "/My-Portfolio/static/media/linkedin1.f6972682cdcb01801b08627d747adf59.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.d85ecbc1.css.map": "/My-Portfolio/static/css/main.d85ecbc1.css.map",
+    "main.fdda8051.js.map": "/My-Portfolio/static/js/main.fdda8051.js.map",
+    "453.acca0757.chunk.js.map": "/My-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85ecbc1.css",
+    "static/js/main.fdda8051.js"
+  ]
+}
